@@ -1,0 +1,19 @@
+#home {
+    
+    background color: tan;
+    font-family: sans-serif;
+}
+.link{
+    font-size: 2em;
+   
+}
+
+a{ color:red;
+}
+
+li a { color: skyblue;
+}
+
+#home a { text-decoration: none;
+    border-top: 1px dotted blue;
+}
